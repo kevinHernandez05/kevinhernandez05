@@ -1,16 +1,15 @@
-### Hi there 👋
+# Howdy there, mate! Kevs here. 👋
 
-<!--
-**kevinHernandez05/kevinhernandez05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)-->
 
-Here are some ideas to get you started:
+#### I'm a Software Developer working in DO 🇩🇴.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently coding at **Progresando Con Solidaridad**
+- ⚙️ Working on technologies such as: `.Net Core`, `Angular`, `Vue.js`, `Ionic💕`, `Node.js`.
+- 🌍 I'm mostly active within **Deno Dominicana** and **Ionic Dominicana** ws groups.
+- 🌱 Learning all about **Deno** (found my new love there🔥).
+- 🎙 Founder of **Deno Dominicana** 🦕
+- 📫 Reach me at: [twitter.com/coffeekev05](https://twitter.com/coffeekev05)
+- ⚡️ Fun fact: I love Animal Crossing. 🦝
+
+
