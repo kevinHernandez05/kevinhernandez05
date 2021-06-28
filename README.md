@@ -4,7 +4,7 @@
 
 - 🏢 I'm currently coding at **Progresando Con Solidaridad**
 - ⚙️ Working on technologies such as: `.Net Core`, `Angular`, `Vue.js`, `Ionic💕`, `Node.js`.
-- 🌱 Js enthusiastic  **Deno** 🔥.
+- 🌱 Js enthusiastic 🔥.
 - 📫 Reach me at: [Linkedin.com/coffeekev05](https://www.linkedin.com/in/kevinhernandez05/)
 - ⚡️ Fun fact: I love Animal Crossing. 🦝
 
