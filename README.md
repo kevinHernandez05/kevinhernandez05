@@ -6,6 +6,6 @@
 - ⚙️ Working on technologies such as: `.Net Core`, `Angular`, `Reactjs`, `Ionic💕`, `Node.js`, `TailwindCSS`.
 - 🌱 Js enthusiastic 🔥.
 - 📫 Reach me at: [Linkedin.com/coffeekev05](https://www.linkedin.com/in/kevinhernandez05/)
-- ⚡️ Fun fact: I love UNDERTALE/Deltarune. 💀 EEEEE
+- ⚡️ Fun fact: UNDERTALE's/Deltarune's series fan here. 💀 EEEEE
 
 
